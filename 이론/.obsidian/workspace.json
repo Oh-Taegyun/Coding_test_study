@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "da761df9eb4a3523",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b1d38a08f1ff3b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "269de4fc3fd4ca74",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "02. DFS, BFS/image/Pasted image 20240310003218.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc423365a09f8fbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "890dfca0a058573a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bacd959aabb2ccf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df5d57c0a959a509",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bfb3d5275e716b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d96df545684df26",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7c167c523976d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2b9502d904b82e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02. DFS, BFS/image/Pasted image 20240310003218.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e763122f439fa025",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02. DFS, BFS/image/Pasted image 20240310003218.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b54128d8b10962b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b59d7a34165db577",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02. DFS, BFS/image/Pasted image 20240310003218.png"
+              }
+            }
+          },
+          {
+            "id": "5ab1e68652460db4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3bacd959aabb2ccf",
+  "lastOpenFiles": [
+    "02. DFS, BFS/06. 미로 탈출.md",
+    "02. DFS, BFS/04. 인접 행렬로 보는 BFS, DFS.md",
+    "02. DFS, BFS/05. 음료수 얼려 먹기.md",
+    "02. DFS, BFS/01. 그래프.md",
+    "02. DFS, BFS/image/Pasted image 20240310003218.png",
+    "02. DFS, BFS/image/Pasted image 20240310003116.png",
+    "02. DFS, BFS/image/Pasted image 20240310002825.png",
+    "02. DFS, BFS/03. BFS.md",
+    "01. 그리드/04. 왕실의 나이트.md",
+    "01. 그리드/03. 상하좌우.md",
+    "02. DFS, BFS/image/Pasted image 20240309235242.png",
+    "02. DFS, BFS/image/Pasted image 20240309231626.png",
+    "02. DFS, BFS/image/Pasted image 20240309230556.png",
+    "02. DFS, BFS/image/Pasted image 20240309230207.png",
+    "01. 그리드/01. 큰 수의 법칙.md",
+    "01. 그리드/02. 숫자 카드 게임.md",
+    "02. DFS, BFS/image/Pasted image 20240309200317.png",
+    "02. DFS, BFS/image/Pasted image 20240309200303.png",
+    "02. DFS, BFS/image/KakaoTalk_20240307_173414070.jpg",
+    "02. DFS, BFS/02. DFS.md",
+    "02. DFS, BFS/image",
+    "문법 정리/파이썬 문법 정리/13. 스택과 큐, 덱.md",
+    "02. DFS, BFS",
+    "문법 정리/파이썬 문법 정리/14. 문자를 아스키 코드로....md",
+    "문법 정리/공통 해당사항 정리/02. 실행 시간 측정.md",
+    "문법 정리/공통 해당사항 정리/01. 실수의 한계.md",
+    "문법 정리/파이썬 문법 정리/01. 리스트 컴프리헨션.md",
+    "문법 정리/파이썬 문법 정리/02. 리스트 메서드.md",
+    "문법 정리/파이썬 문법 정리/03. 딕셔너리 메서드.md",
+    "문법 정리/파이썬 문법 정리/06. 입출력.md",
+    "문법 정리/파이썬 문법 정리/07. 주요 라이브러리 문법과 유의점.md",
+    "문법 정리/파이썬 문법 정리/04. 집합 자료형.md",
+    "문법 정리/파이썬 문법 정리/05. 람다함수.md",
+    "문법 정리/자바 문법 정리/04. Vector.md",
+    "문법 정리/자바 문법 정리/03. 컬렉션.md",
+    "문법 정리/자바 문법 정리/02. 제네릭 프로그래밍.md",
+    "문법 정리/자바 문법 정리/10. Collections 클래스.md",
+    "문법 정리/자바 문법 정리/image",
+    "01. 그리드",
+    "문법 정리/파이썬 문법 정리/image"
+  ]
+}
