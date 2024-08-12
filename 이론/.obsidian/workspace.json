@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1d38a08f1ff3b3",
+        "id": "473c21e49d85cf3d",
         "type": "tabs",
         "children": [
           {
-            "id": "269de4fc3fd4ca74",
+            "id": "45a0ffa4479b23a2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "02. DFS, BFS/image/Pasted image 20240310003218.png"
+                "file": "04. 탐색/02. 이진 탐색.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. DFS, BFS/image/Pasted image 20240310003218.png",
+                "file": "04. 탐색/02. 이진 탐색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. DFS, BFS/image/Pasted image 20240310003218.png",
+                "file": "04. 탐색/02. 이진 탐색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. DFS, BFS/image/Pasted image 20240310003218.png"
+                "file": "04. 탐색/02. 이진 탐색.md"
               }
             }
           },
@@ -153,47 +155,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3bacd959aabb2ccf",
+  "active": "45a0ffa4479b23a2",
   "lastOpenFiles": [
-    "02. DFS, BFS/06. 미로 탈출.md",
-    "02. DFS, BFS/04. 인접 행렬로 보는 BFS, DFS.md",
-    "02. DFS, BFS/05. 음료수 얼려 먹기.md",
-    "02. DFS, BFS/01. 그래프.md",
-    "02. DFS, BFS/image/Pasted image 20240310003218.png",
-    "02. DFS, BFS/image/Pasted image 20240310003116.png",
-    "02. DFS, BFS/image/Pasted image 20240310002825.png",
-    "02. DFS, BFS/03. BFS.md",
+    "04. 탐색/문제풀이/02. 떡볶이 떡 만들기.md",
+    "04. 탐색/01. 순차 탐색.md",
+    "자료구조/트리, 히프, 그래프, 탐색.pdf",
+    "04. 탐색/02. 이진 탐색.md",
+    "KakaoTalk_20240708_184001893_02.jpg",
+    "Pasted image 20240708184654.png",
+    "03. 정렬/04. 계수 정렬.md",
+    "04. 탐색/문제풀이/01. 부품 찾기.md",
+    "03. 정렬/03. 퀵 정렬.md",
+    "02. DFS, BFS/문제풀이/02. 미로 탈출.md",
+    "02. DFS, BFS/문제풀이/01. 음료수 얼려 먹기.md",
+    "07. 최단 경로/문제풀이",
+    "06. 신장트리/문제풀이",
+    "05. 다이나믹 프로그래밍/문제풀이",
+    "04. 탐색/문제풀이",
+    "03. 정렬/문제풀이",
     "01. 그리드/04. 왕실의 나이트.md",
+    "02. DFS, BFS/문제풀이",
     "01. 그리드/03. 상하좌우.md",
-    "02. DFS, BFS/image/Pasted image 20240309235242.png",
-    "02. DFS, BFS/image/Pasted image 20240309231626.png",
-    "02. DFS, BFS/image/Pasted image 20240309230556.png",
-    "02. DFS, BFS/image/Pasted image 20240309230207.png",
-    "01. 그리드/01. 큰 수의 법칙.md",
-    "01. 그리드/02. 숫자 카드 게임.md",
-    "02. DFS, BFS/image/Pasted image 20240309200317.png",
-    "02. DFS, BFS/image/Pasted image 20240309200303.png",
-    "02. DFS, BFS/image/KakaoTalk_20240307_173414070.jpg",
+    "02. DFS, BFS/04. 인접 행렬로 보는 BFS, DFS.md",
+    "자료구조/그래프.md",
+    "STL/간단 정리.pdf",
+    "04. 탐색/image/Pasted image 20240624173842.png",
+    "03. 정렬/01. 선택 정렬.md",
+    "02. DFS, BFS/03. BFS.md",
     "02. DFS, BFS/02. DFS.md",
-    "02. DFS, BFS/image",
-    "문법 정리/파이썬 문법 정리/13. 스택과 큐, 덱.md",
-    "02. DFS, BFS",
-    "문법 정리/파이썬 문법 정리/14. 문자를 아스키 코드로....md",
-    "문법 정리/공통 해당사항 정리/02. 실행 시간 측정.md",
-    "문법 정리/공통 해당사항 정리/01. 실수의 한계.md",
-    "문법 정리/파이썬 문법 정리/01. 리스트 컴프리헨션.md",
-    "문법 정리/파이썬 문법 정리/02. 리스트 메서드.md",
-    "문법 정리/파이썬 문법 정리/03. 딕셔너리 메서드.md",
-    "문법 정리/파이썬 문법 정리/06. 입출력.md",
-    "문법 정리/파이썬 문법 정리/07. 주요 라이브러리 문법과 유의점.md",
-    "문법 정리/파이썬 문법 정리/04. 집합 자료형.md",
-    "문법 정리/파이썬 문법 정리/05. 람다함수.md",
-    "문법 정리/자바 문법 정리/04. Vector.md",
-    "문법 정리/자바 문법 정리/03. 컬렉션.md",
-    "문법 정리/자바 문법 정리/02. 제네릭 프로그래밍.md",
-    "문법 정리/자바 문법 정리/10. Collections 클래스.md",
-    "문법 정리/자바 문법 정리/image",
-    "01. 그리드",
-    "문법 정리/파이썬 문법 정리/image"
+    "07. 최단 경로/2. 플로이드 워셜 알고리즘.md",
+    "07. 최단 경로/image/Pasted image 20240624193711.png",
+    "07. 최단 경로/1. 다익스트라 최단 경로 알고리즘.md",
+    "07. 최단 경로/image/Pasted image 20240625144627.png",
+    "07. 최단 경로/image/Pasted image 20240625144516.png",
+    "06. 신장트리/03. 프림 알고리즘.md",
+    "06. 신장트리/02. 크루스컬 알고리즘.md",
+    "07. 최단 경로/image/Pasted image 20240625144307.png",
+    "07. 최단 경로/image/Pasted image 20240625144250.png",
+    "07. 최단 경로/image/Pasted image 20240625131621.png",
+    "07. 최단 경로/image/Pasted image 20240625131513.png",
+    "06. 신장트리/01. 신장 트리.md",
+    "06. 신장트리/image",
+    "05. 다이나믹 프로그래밍/01. 다이나믹 프로그래밍.md",
+    "04. 탐색/03. 이진 탐색 트리.md",
+    "03. 정렬/02. 삽입 정렬.md",
+    "06. 신장트리",
+    "자료구조/1. 이진 트리.md",
+    "문법 정리/C++ 문법 정리/1. const와 포인터의 차이.md"
   ]
 }

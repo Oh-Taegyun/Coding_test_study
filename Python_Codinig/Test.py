@@ -1,16 +1,3 @@
-# python
-import time
-start = time.time()
+import math
 
-# 작성할 내용 ------------------------------
-
-def print_reverse(s):
-    print(s[::-1])
-
-print_reverse("string")
-
-# -----------------------------------------
-
-end = time.time()
-
-print(f"{end - start:.5f} sec")
+print(0.7212 * 0.4314 + 0.6453 * 0.2915 + 0.6115 * 0.5388)
